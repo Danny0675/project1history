@@ -1,1 +1,15 @@
-adding image of css
+     Body {
+         Font-family: Arial, sans-serif;
+         Margin: 0;
+         Padding: 20px;
+     }
+
+     H1 {
+         Color: blue;
+         Text-align: center;
+     }
+
+     P {
+         Font-size: 16px;
+         Line-height: 1.5;
+     }
