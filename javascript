@@ -1,7 +1,7 @@
    <!DOCTYPE html>
    <html>
    <head>
-       <title>JavaScript Example</title>
+       <title>JavaScript Exercise</title>
    </head>
    <body>
        <button onclick=”showAlert()”>Click me</button>
